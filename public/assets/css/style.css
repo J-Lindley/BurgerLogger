@@ -1,0 +1,33 @@
+li {
+  padding: 5px;
+  margin: 5px;
+  background: #faebd7;
+}
+body {
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9e4188e7-0176-45ae-822e-7b8a4dae18f7/d4z2xj7-0ffaa535-3329-444e-ae79-932abe8b01a2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzllNDE4OGU3LTAxNzYtNDVhZS04MjJlLTdiOGE0ZGFlMThmN1wvZDR6MnhqNy0wZmZhYTUzNS0zMzI5LTQ0NGUtYWU3OS05MzJhYmU4YjAxYTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.q_cp-HnRD1D6Ltt8s6SzenQ1EWqddPA1OZZyFMx17Dg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #000000;
+
+}
+.burgerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+  background: aqua;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+

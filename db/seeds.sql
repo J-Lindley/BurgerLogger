@@ -1,0 +1,11 @@
+INSERT INTO burgers (burger_name, devoured) VALUES ('Fatburger', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('McDonalds', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Dicks', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Wendys', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Whataburger', true);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Steak n Shake', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burger King', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Five Guys', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Burgermaster', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('Fuddruckers', false);
+INSERT INTO burgers (burger_name, devoured) VALUES ('The Habit', false);
